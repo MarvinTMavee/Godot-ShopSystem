@@ -1,0 +1,14 @@
+{
+	"version": "1" ,
+	"coins": 910,
+	"ads-seen": 0,
+	"selected": 1,
+	"items-bought": {
+		"balls": {
+			"standard": true,
+			"red": false,
+			"blue": false,
+			"gold": false
+		}
+	}
+}
